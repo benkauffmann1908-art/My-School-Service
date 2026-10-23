@@ -1,8 +1,1 @@
----MySchool Shutdown---
-am 24.10.2026 werden die
-MySchool Server bis auf
-weiteres Geschlossen.
-
-on 10/24/2026 The MySchool
-Servers will be closed till
-Further notice.
+am 24.10.2026 wurden die MySchool Server bis auf weiteres abgeschaltet.
